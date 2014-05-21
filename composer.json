@@ -1,0 +1,22 @@
+{
+    "name": "magicphp/cachedb",
+    "type": "library",
+    "description": "The MagicPHP Framework",
+    "keywords": ["framework", "magicphp"],
+    "homepage": "https://magicphp.org",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "André Ferreira",
+            "email": "andrehrf@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "classmap": [
+            "src"
+        ]
+    }
+}
